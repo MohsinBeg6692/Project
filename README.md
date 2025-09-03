@@ -1,4 +1,4 @@
-💬 Project 2: Social Media Sentiment Analysis Dashboard
+💬 Project : Social Media Sentiment Analysis Dashboard
 A sentiment analysis dashboard that scrapes Reddit data, analyzes public sentiment using NLP, and visualizes it with interactive charts. Built with Dash and Plotly.
 
 🔍 Features
